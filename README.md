@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Arduino/HTML/CSS**
 
-- 📫 How to reach me **iamabishek25@gamil.com**
+- 📫 How to reach me **abishekkumarthurvas@gamil.com**
 
 - 📄 Know about my experiences [file:///C:/Users/iamab/OneDrive/Desktop/my%20Resume/Abishek%20Kumar%20Thurvas%20(Resume).pdf](file:///C:/Users/iamab/OneDrive/Desktop/my%20Resume/Abishek%20Kumar%20Thurvas%20(Resume).pdf)
 
